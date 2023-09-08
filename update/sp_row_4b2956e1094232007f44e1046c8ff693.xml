@@ -2,6 +2,7 @@
     <sp_row action="INSERT_OR_UPDATE">
         <class_name/>
         <order>1</order>
+        <semantic_tag/>
         <sp_column/>
         <sp_container display_value="CreateNotes Home - Container 1">852956e1094232007f44e1046c8ff655</sp_container>
         <sys_class_name>sp_row</sys_class_name>
